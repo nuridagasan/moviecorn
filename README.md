@@ -16,8 +16,6 @@ It lists favourite movies and tv series by providing release date, name, poster,
 React: Components, State, and Props
 React Hooks: useState, useEffect
 
-#### NOTE
+#### Note
 
-App.js includes a variable called as [API_URL](src/App.js). You can create your own API key by going this website: https://www.omdbapi.com?apikey=a0f54f24 if key doesn't work.
-
-
+App.js includes a variable called as [API_URL](src/App.js). You can create your own API key by going this website: https://www.omdbapi.com if key doesn't work.
